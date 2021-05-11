@@ -1,0 +1,14 @@
+animals/Choice.java
+ animals.Choice
+animals/Communication.java
+ animals.Communication
+animals/Main.java
+ animals.Main
+animals/FileHandle.java
+ animals.FileHandle
+animals/StringHandle.java
+ animals.StringHandle
+animals/BST.java
+ animals.BST
+ animals.BST$1
+ animals.BST$Node

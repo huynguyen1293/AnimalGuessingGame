@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuessAnimalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-10T18:25:43" hostname="DESKTOP-IB8MHC4" time="1.046">
+  <properties/>
+  <testcase name="start" classname="GuessAnimalTest" time="1.046"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Scenario 'file-formats' is started.
+
+Good afternoon!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+ - The cat can climbs tree.
+ - The dog can't climbs tree.
+I can distinguish these animals by asking the question:
+ - Can it climbs tree?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Can it climbs tree?
+> Yes
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a cat from a lynx.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+I can distinguish these animals by asking the question:
+ - Is it living in the forest?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> no
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Have a nice day!
+Good afternoon!
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+See you soon!
+Good afternoon!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+ - The cat can climbs tree.
+ - The dog can't climbs tree.
+I can distinguish these animals by asking the question:
+ - Can it climbs tree?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Can it climbs tree?
+> Yes
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a cat from a lynx.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+I can distinguish these animals by asking the question:
+ - Is it living in the forest?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> no
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Goodbye!
+Good afternoon!
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Have a nice day!
+Good afternoon!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+ - The cat can climbs tree.
+ - The dog can't climbs tree.
+I can distinguish these animals by asking the question:
+ - Can it climbs tree?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Can it climbs tree?
+> Yes
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a cat from a lynx.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+I can distinguish these animals by asking the question:
+ - Is it living in the forest?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> no
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+See you soon!
+Good afternoon!
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+See you next time!
+?[1;31m
+Start test 2?[0m
+Scenario 'menu' is started.
+
+Good afternoon!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system!
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> shark
+Specify a fact that distinguishes a cat from a shark.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is a mammal
+Is the statement correct for a shark?
+> no
+I learned the following facts about animals:
+ - The cat is a mammal.
+ - The shark isn't a mammal.
+I can distinguish these animals by asking the question:
+ - Is it a mammal?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a mammal?
+> yes
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> fox
+Specify a fact that distinguishes a cat from a fox.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is living in the forest
+Is the statement correct for a fox?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The fox is living in the forest.
+I can distinguish these animals by asking the question:
+ - Is it living in the forest?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a mammal?
+> yes
+Is it living in the forest?
+> no
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it can climb trees
+Is the statement correct for a dog?
+> no
+I learned the following facts about animals:
+ - The cat can climb trees.
+ - The dog can't climb trees.
+I can distinguish these animals by asking the question:
+ - Can it climb trees?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a mammal?
+> yes
+Is it living in the forest?
+> yes
+Is it a fox?
+> no
+I give up. What animal do you have in mind?
+> wolf
+Specify a fact that distinguishes a fox from a wolf.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it has a long bushy tail
+Is the statement correct for a wolf?
+> no
+I learned the following facts about animals:
+ - The fox has a long bushy tail.
+ - The wolf doesn't have a long bushy tail.
+I can distinguish these animals by asking the question:
+ - Has it a long bushy tail?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> yes
+You think of an animal, and I guess it.
+Press enter when you're ready.
+> 
+Is it a mammal?
+> yes
+Is it living in the forest?
+> yes
+Has it a long bushy tail?
+> no
+Is it a wolf?
+> no
+I give up. What animal do you have in mind?
+> hare
+Specify a fact that distinguishes a wolf from a hare.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is a shy animal
+Is the statement correct for a hare?
+> yes
+I learned the following facts about animals:
+ - The wolf isn't a shy animal.
+ - The hare is a shy animal.
+I can distinguish these animals by asking the question:
+ - Is it a shy animal?
+Nice! I've learned so much about animals!
+
+Would you like to play again?
+> no
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 2
+Your choice:
+2
+Here are the animals I know:
+- cat
+- dog
+- fox
+- hare
+- shark
+- wolf
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 3
+Your choice:
+3
+Enter the animal:
+> wolf
+Facts about the a wolf:
+- It is a mammal
+- It is living in the forest
+- It doesn't have a long bushy tail
+- It isn't a shy animal
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 4
+The Knowledge Tree stats
+
+- root node it is a mammal
+- total number of nodes 11
+- total number of animals 6
+- total number of statements 5
+- height of the tree 4
+- minimum animal's depth 1
+- average animal's depth 3.0
+
+What do you want to do:
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
